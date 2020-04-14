@@ -1,0 +1,22 @@
+[{
+        "name": "Firewatch",
+        "author": "Ryan Cunningham",
+        "url": "https://raw.githubusercontent.com/PixelPlusUI/Wallpapers/master/img/Firewatch.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
+        "name": "Pixel 4 Styled",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/PixelPlusUI/Wallpapers/master/img/Pixel4Styled.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
+        "name": "PixelPlusUI Google Themed",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/PixelPlusUI/Wallpapers/master/img/GThemed.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    }
+]
