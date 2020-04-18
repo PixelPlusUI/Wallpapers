@@ -18,5 +18,12 @@
         "url": "https://raw.githubusercontent.com/PixelPlusUI/Wallpapers/master/img/GThemed.png",
         "downloadable": true,
         "dimensions": "1440×2560"
+    },
+	{
+        "name": "PPUI Colored",
+        "author": "Takeshiro",
+        "url": "https://raw.githubusercontent.com/PixelPlusUI/Wallpapers/master/img/Colored.png",
+        "downloadable": true,
+        "dimensions": "1080×2160"
     }
 ]
